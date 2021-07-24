@@ -1,1 +1,1 @@
-# class-23-corona-website
+# COVID-19-Website
